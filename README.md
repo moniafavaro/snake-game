@@ -1,10 +1,10 @@
 # Snake Game
 
-### Description
+## Description
 
 * Snake Game built with Python3 and Pygame
 
-### Installation and Usage
+## Installation and Usage
 
 * To use this repo you need to:
 * Clone or Fork this repo
@@ -14,7 +14,7 @@
 * Type `python snake.py` or `python3 snake.py` to open GUI and play the game
 
 
-### Technologies Used
+## Technologies Used
 
 * Python3
 * Pygame
@@ -22,7 +22,7 @@
 * Git & GitHub
 
 
-### Process
+## Process
 
 * In order to upskill I follow along a tutorial of how to build a Snake Game with Python and Pygame
 * You can find the tutorial [here](https://www.edureka.co/blog/snake-game-with-pygame/)
